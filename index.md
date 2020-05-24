@@ -3,4 +3,4 @@
 
 Meine Aussicht
 
-[[Meine Website|http://wtsch.ch/]]
+Meine Website: http://wtsch.ch/
